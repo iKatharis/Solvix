@@ -8,12 +8,12 @@ After a month working on this app (as it's my first ever attempt at an app) I've
 <br>
 <br>
 
-Solvix BETA comes with a working calculator, a working whiteboard and a code editor which works\
+Solvix BETA comes with a working calculator, a working whiteboard and a code editor which works
 Whiteboard keybinds include
-1. D to draw\
-2. E to erase [ - to decrease erasing size and ] - to enlarge\
-3. X to erase whole board\
+1. D to draw
+2. E to erase [ - to decrease erasing size and ] - to enlarge
+3. X to erase whole board
 
 
-
+Solvix's beta [
 
