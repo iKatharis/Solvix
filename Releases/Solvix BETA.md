@@ -15,5 +15,6 @@ Whiteboard keybinds include
 3. X to erase whole board
 
 
-Solvix's beta [
+Solvix's beta [Solvix/Releases/solvix0.1.0_aarch64.dmg]
+
 
