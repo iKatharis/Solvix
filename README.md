@@ -21,14 +21,6 @@ Download the latest build from the [Releases page](../../releases). On first
 launch, macOS will likely warn that the app is from an unidentified developer,
 right-click it and choose "Open" once to get past that.
 
-## Building from source
-Requires [Rust](https://rustup.rs) and [Node.js](https://nodejs.org) installed.
-
-\`\`\`
-npm install
-npm run tauri dev     # run in development mode
-npm run tauri build   # produce a real .app
-\`\`\`
 
 ## License
 MIT, see [LICENSE](LICENSE).
