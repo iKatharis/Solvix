@@ -22,5 +22,9 @@ launch, macOS will likely warn that the app is from an unidentified developer,
 right-click it and choose "Open" once to get past that.
 
 
+## See more on my YouTube
+https://www.youtube.com/@Karethys
+
+
 ## License
 MIT, see [LICENSE](LICENSE).
